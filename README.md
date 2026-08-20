@@ -10,10 +10,9 @@
 [![Patent](https://img.shields.io/badge/patent-applied-orange)]()
 [![License](https://img.shields.io/badge/license-MIT-green)]()
 
-<!--
-  ADD YOUR HERO IMAGE HERE — a clean product photo of the box.
-  ![SAARTHI Smart Health Companion Box](assets/images/hero.jpg)
--->
+<p align="center">
+  <img src="assets/images/compartments_lit.jpg" width="60%" alt="SAARTHI open lid showing 6 illuminated medicine compartments" />
+</p>
 
 ---
 
@@ -70,18 +69,23 @@ for the full market and evidence base).
 
 ## Gallery
 
-<!--
-  Add 3–6 photos of the physical build here once you have them —
-  exterior, interior compartments, LCD/servo close-up, and the
-  Blynk app dashboard. Example:
+<p align="center">
+  <img src="assets/images/compartments_lit.jpg" width="48%" alt="6 illuminated compartments, numbered and color-coded" />
+  <img src="assets/images/top_panel_lcd_button.jpg" width="48%" alt="Top panel with 16x2 LCD and acknowledge button" />
+</p>
+<p align="center">
+  <img src="assets/images/internal_wiring_full.jpg" width="48%" alt="Full internal wiring: NodeMCU, servo, dual batteries, master switch" />
+  <img src="assets/images/mcu_battery_closeup.jpg" width="48%" alt="Close-up of NodeMCU ESP8266 wiring and 18650 battery" />
+</p>
 
-  <p align="center">
-    <img src="assets/images/exterior.jpg" width="32%" />
-    <img src="assets/images/interior.jpg" width="32%" />
-    <img src="assets/images/app-dashboard.jpg" width="32%" />
-  </p>
--->
-*(Photos to be added — see [Adding the Presentation & Images to GitHub](#getting-started).)*
+| Photo | What it shows |
+|---|---|
+| `compartments_lit.jpg` | The 6 color-coded, numbered compartments with the interior LED lit on lid-open. |
+| `top_panel_lcd_button.jpg` | The top panel — 16x2 I2C LCD and the single acknowledge/lock-toggle push button. |
+| `internal_wiring_full.jpg` | Full internal layout: NodeMCU, SG90 servo, dual 18650 cells, master rocker switch, USB charging module. |
+| `mcu_battery_closeup.jpg` | Close-up of the NodeMCU ESP8266 wiring alongside the 18650 Li-ion cell. |
+
+<!-- Still to add: a closed-box exterior shot and a Blynk app dashboard screenshot — drop them into assets/images/ as exterior.jpg and blynk_dashboard.png and add <img> tags for them here. -->
 
 ## Hardware — Bill of Materials
 
@@ -159,7 +163,11 @@ saarthi-smart-health-box/
 ├── Smart_Medical_Box_Presentation.pptx
 ├── LICENSE
 └── assets/
-    ├── images/        # product & app photos
+    ├── images/
+    │   ├── compartments_lit.jpg
+    │   ├── top_panel_lcd_button.jpg
+    │   ├── internal_wiring_full.jpg
+    │   └── mcu_battery_closeup.jpg
     └── docs/           # patent filing receipt / IP documents
 ```
 
