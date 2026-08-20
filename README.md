@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)]()
 
 <p align="center">
-  <img src="assets/images/compartments_lit.jpg" width="60%" alt="SAARTHI open lid showing 6 illuminated medicine compartments" />
+  <img src="photos/pic3.jpeg" width="60%" alt="SAARTHI open lid showing 6 illuminated medicine compartments" />
 </p>
 
 ---
@@ -70,12 +70,12 @@ for the full market and evidence base).
 ## Gallery
 
 <p align="center">
-  <img src="assets/images/compartments_lit.jpg" width="48%" alt="6 illuminated compartments, numbered and color-coded" />
-  <img src="assets/images/top_panel_lcd_button.jpg" width="48%" alt="Top panel with 16x2 LCD and acknowledge button" />
+  <img src="photos/pic3.jpeg" width="48%" alt="6 illuminated compartments, numbered and color-coded" />
+  <img src="photos/pic2.jpeg" width="48%" alt="Top panel with 16x2 LCD and acknowledge button" />
 </p>
 <p align="center">
-  <img src="assets/images/internal_wiring_full.jpg" width="48%" alt="Full internal wiring: NodeMCU, servo, dual batteries, master switch" />
-  <img src="assets/images/mcu_battery_closeup.jpg" width="48%" alt="Close-up of NodeMCU ESP8266 wiring and 18650 battery" />
+  <img src="photos/pic1.jpeg" width="48%" alt="Full internal wiring: NodeMCU, servo, dual batteries, master switch" />
+  <img src="photos/pic4.jpeg" width="48%" alt="Close-up of NodeMCU ESP8266 wiring and 18650 battery" />
 </p>
 
 | Photo | What it shows |
